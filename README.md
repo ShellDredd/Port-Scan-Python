@@ -5,4 +5,4 @@ pip install -r requirements.txt
 ### Others.
 Nmap installation required on system | (apt install nmap)
 ### Usage
-python3 maritrini.py
+python3 maritrini_scan.py
