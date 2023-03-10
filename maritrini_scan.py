@@ -17,7 +17,7 @@ def purple_ligth(skk): print("\x1b[0;35m {}\033[01m" .format(skk) + clear)
 print("\n")
 banner = os.system('toilet -f pagga --metal "ShellDredd"')
 
-#Cabecera:
+#Header:
 print("")
 purple2(' PURPLE PAPERS     ---     @SHELLDREDD')
 purple2('         # Nmap Script module')
