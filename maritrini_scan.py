@@ -11,7 +11,6 @@ import nmap, os, sys
 clear='\033[0;m'
 purple='\x1b[1;35m'
 def purple2(skk): print("\x1b[1;35m {}\033[01m" .format(skk) + clear)
-def purple_ligth(skk): print("\x1b[0;35m {}\033[01m" .format(skk) + clear)
 
 #Banner:
 print("\n")
