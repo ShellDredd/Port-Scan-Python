@@ -12,10 +12,6 @@ clear='\033[0;m'
 purple='\x1b[1;35m'
 def purple2(skk): print("\x1b[1;35m {}\033[01m" .format(skk) + clear)
 
-#Banner:
-print("\n")
-banner = os.system('toilet -f pagga --metal "ShellDredd"')
-
 #Header:
 print("")
 purple2(' PURPLE PAPERS     ---     @SHELLDREDD')
