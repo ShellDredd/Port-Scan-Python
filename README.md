@@ -3,8 +3,7 @@
 ## [$] Installation.
 *pip install -r requirements.txt*
 ### [$] Others.
-*Nmap installation required on system | (apt install nmap)*
-*toilet banner required on system | (apt install toilet)*
+*Nmap installation required on system | (apt install nmap)* || *toilet banner required on system | (apt install toilet)*
 ### [$] Usage
 *python3 maritrini_scan.py*
 ### ( ͡° ͜ʖ ͡°)
