@@ -5,5 +5,5 @@
 ### [$] Others.
 *Nmap installation required on system | (apt install nmap)*
 ### [$] Usage
-*python3 maritrini_scan.py*
+*python3 port_scan.py*
 ### ( ͡° ͜ʖ ͡°)
