@@ -4,7 +4,8 @@
 ## [$] Installation.
 <code>pip install -r requirements.txt</code>
 ### [$] Others.
-*Nmap installation required on system | (apt install nmap)*
+*Nmap installation required on system*<br>
+<code>apt install nmap</code>
 ### [$] Usage
 <code>python3 port_scan.py</code>
 ### ( ͡° ͜ʖ ͡°)
