@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/5mYrG60OXgU2PEJHV1/giphy.webp" width="150"/>
+  <img src="https://i.giphy.com/media/5mYrG60OXgU2PEJHV1/giphy.webp" width="250"/>
 </div>
 
 # $${\color{purple}NMAP \space \space TOOL \space \space PYTHON}$$
