@@ -28,7 +28,7 @@
 
 # <img src="https://i.giphy.com/media/xTk9ZOk8WmSKQpFg1W/200w.webp" width="40"> What is this?<br>
 *Tool for port and service scanning. Simple automated script using the nmap library or module for python3.*<br>
-*This script is a programming example for one of the videos of my <a href="https://www.youtube.com/channel/UCV_nyB99w6s3tNTSK6aRI9Q" target="_blank">youtube channel ShellDredd Informática.</a>*
+*This script is a programming example for one of the videos of my <a href="https://youtu.be/Yg83kyJojik" target="_blank">youtube channel ShellDredd Informática.</a>*
 
 <div>
   <img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png"  title="LINUX" alt="LINUX" width="40" height="40"/>&nbsp;
