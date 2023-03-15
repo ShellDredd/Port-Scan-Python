@@ -33,6 +33,7 @@
 <div>
   <img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png"  title="LINUX" alt="LINUX" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/2570/2570575.png"  title="PYTHON" alt="PYTHON" width="40" height="40"/>&nbsp;
+  <img src="https://nmap.org/images/nmap-logo-256x256.png"  title="NMAP" alt="NMAP" width="40" height="40"/>&nbsp;
  </div>
 
 ## [$] Installation.
