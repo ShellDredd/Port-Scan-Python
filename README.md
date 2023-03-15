@@ -26,8 +26,8 @@
 </div><br>
 
 
-<img src="https://i.giphy.com/media/xTk9ZOk8WmSKQpFg1W/200w.webp" width="30">
-# $${\color{purple}NMAP \space \space TOOL \space \space PYTHON}$$
+<img src="https://i.giphy.com/media/xTk9ZOk8WmSKQpFg1W/200w.webp" width="30"><br>
+# $${\color{purple}NMAP \space \space TOOL \space \space PYTHON}$$ <br>
 *Tool for port and service scanning. Simple automated script using the nmap library or module for python3.*<br>
 *This script is a programming example for one of the videos of my <a href="https://www.youtube.com/channel/UCV_nyB99w6s3tNTSK6aRI9Q" target="_blank">youtube channel ShellDredd Informática.</a>*
 
